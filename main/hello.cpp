@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Hello, CI/CD Pipeline!" << endl;
+    cout << "Hello from Jenkins Pipeline!" << endl;
     return 0;
 }
